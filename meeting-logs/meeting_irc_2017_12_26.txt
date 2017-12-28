@@ -1,0 +1,283 @@
+2017-12-26 14:45:59	@siddharthvipul	who else is active here?
+2017-12-26 14:46:09	Jarwin	here
+2017-12-26 14:46:23	alice_pigasus	here
+2017-12-26 14:46:57	@siddharthvipul	use / me (without space) it helps in checking logs
+2017-12-26 14:47:03	@siddharthvipul	try once
+2017-12-26 14:47:15	 *	Jarwin
+2017-12-26 14:47:15	alice_pigasus	"/me" ?
+2017-12-26 14:47:19	@siddharthvipul	no ""
+2017-12-26 14:47:22	@siddharthvipul	yes
+2017-12-26 14:47:24	Jarwin	without quotes
+2017-12-26 14:48:44	@siddharthvipul	akki_akshat, ping
+2017-12-26 14:49:55	akki_akshat	here
+2017-12-26 14:50:33	Jarwin	Meeting will commence now. if you're attending the meeting, immediately after this message reply with "/me" without quotes
+2017-12-26 14:50:36	 *	Jarwin
+2017-12-26 14:50:50	--	siddharthvipul has changed topic for #culug from "roll call" to "roll_call"
+2017-12-26 14:50:55	 *	siddharthvipul is here
+2017-12-26 14:51:13	 *	alice_pigasus is here         
+2017-12-26 14:51:33	Jarwin	@akki_akshat ?
+2017-12-26 14:51:51	akki_akshat	"/me" not working for me
+2017-12-26 14:51:59	@siddharthvipul	no quotes
+2017-12-26 14:52:05	akki_akshat	yaa tried
+2017-12-26 14:52:19	@siddharthvipul	use irccloud
+2017-12-26 14:52:20	Jarwin	alright, we'll figure it out later.
+2017-12-26 14:52:22	@siddharthvipul	anyway
+2017-12-26 14:52:26	akki_akshat	i am using androIRC
+2017-12-26 14:52:38	--	siddharthvipul has changed topic for #culug from "roll_call" to "DevSprint planning"
+2017-12-26 14:52:39	akki_akshat	yaa okay
+2017-12-26 14:52:51	Jarwin	So, let's begin, about next meetup
+2017-12-26 14:52:56	Jarwin	Any ideas?
+2017-12-26 14:53:19	akki_akshat	When are we planning to organise it m
+2017-12-26 14:53:29	@siddharthvipul	How long do you want it to be? if we are looking at first PR, then they need to know Git/Github as well
+2017-12-26 14:53:50	Jarwin	@siddharthvipul we're talking about next meetup first, right?
+2017-12-26 14:54:34	akki_akshat	Git/Github is a good idea to start with
+2017-12-26 14:54:48	@siddharthvipul	I though we were discussing DevSprint
+2017-12-26 14:55:13	@siddharthvipul	Before that we need to take care of Git
+2017-12-26 14:55:15	Jarwin	let's discuss about the next meetup, after that we'll talk aboutdevsprint
+2017-12-26 14:55:16	-->	prakash (b75217bd@gateway/web/freenode/ip.183.82.23.189) has joined #culug
+2017-12-26 14:55:22	Jarwin	yeah, git!
+2017-12-26 14:55:34	 *	prakash is here
+2017-12-26 14:55:36	@siddharthvipul	and github as well
+2017-12-26 14:55:41	akki_akshat	+1
+2017-12-26 14:55:52	Jarwin	yeah!
+2017-12-26 14:56:21	Jarwin	What about the dates though?
+2017-12-26 14:56:39	akki_akshat	after mid sem ?
+2017-12-26 14:56:40	@siddharthvipul	What about creating a demo project and asking people to send PR in new branch during Git/GitHub session
+2017-12-26 14:56:54	Jarwin	That will be in the git session itself, right?
+2017-12-26 14:56:54	@siddharthvipul	Git/GitHub can be before midsems
+2017-12-26 14:57:06	Jarwin	It'll be a bit tricky before midsems
+2017-12-26 14:57:13	@siddharthvipul	after midsems, we can keep the contribution sprint
+2017-12-26 14:57:15	Jarwin	and not many people will join
+2017-12-26 14:57:32	@siddharthvipul	what if we keep it on 6th
+2017-12-26 14:57:33	akki_akshat	+1 Jarwin
+2017-12-26 14:57:36	Jarwin	Dev sprints can be kept in the first week of feb
+2017-12-26 14:58:47	Jarwin	26th Jan is a holiday, right?
+2017-12-26 14:59:07	@siddharthvipul	must be.. it's christ not jain :p
+2017-12-26 14:59:12	@siddharthvipul	sorry JNU
+2017-12-26 15:00:13	Jarwin	So, that's a long weekend, most of the people will be out
+2017-12-26 15:00:49	akki_akshat	But after 28 JAN ont it be too late?
+2017-12-26 15:01:16	Jarwin	Should we do it on 27th then?
+2017-12-26 15:01:19	Jarwin	or 25th?
+2017-12-26 15:01:47	akki_akshat	some may have practicals (not sure)
+2017-12-26 15:02:18	alice_pigasus	how long would the devsprint be?
+2017-12-26 15:03:07	Jarwin	Depends. I think a full day is required for a sucessfull dev sprints
+2017-12-26 15:03:16	Jarwin	Usually they span over 2 days
+2017-12-26 15:03:30	@siddharthvipul	9-4
+2017-12-26 15:03:44	Jarwin	Day one the mentor gives demo, day two people put PR
+2017-12-26 15:04:01	akki_akshat	+1
+2017-12-26 15:04:02	Jarwin	But we'll have to manage it 9-4
+2017-12-26 15:04:09	@siddharthvipul	Full day won't be required to give demo
+2017-12-26 15:04:39	@siddharthvipul	people can refer firsttimer website to solve some basic issue
+2017-12-26 15:05:28	Jarwin	yeah, I guess
+2017-12-26 15:05:52	akki_akshat	But when ?
+2017-12-26 15:06:03	akki_akshat	Feb 1st week ?
+2017-12-26 15:06:05	Jarwin	But before that we'll need to fix basic linix and git meetup
+2017-12-26 15:06:14	akki_akshat	exactly
+2017-12-26 15:06:20	@siddharthvipul	I still think getting over git/github session before midsem is better
+2017-12-26 15:06:27	Jarwin	-1
+2017-12-26 15:06:28	alice_pigasus	+1
+2017-12-26 15:06:37	@siddharthvipul	or atleast basics of Linux
+2017-12-26 15:06:56	akki_akshat	When exactly do you want it before mid sem ?
+2017-12-26 15:07:07	@siddharthvipul	6TH
+2017-12-26 15:07:12	@siddharthvipul	6th*
+2017-12-26 15:07:21	Jarwin	There's the ICTS talk happening in the second week
+2017-12-26 15:07:30	alice_pigasus	on 11th, not 6th
+2017-12-26 15:07:34	akki_akshat	ICTS ?
+2017-12-26 15:07:48	alice_pigasus	International Centre for Theoretical Sciences
+2017-12-26 15:07:50	Jarwin	International Center for Theoritical Science
+2017-12-26 15:08:07	@siddharthvipul	it's on 6th or 11th
+2017-12-26 15:08:16	alice_pigasus	11th
+2017-12-26 15:08:26	Jarwin	@alice_pigasus you sure?
+2017-12-26 15:08:28	@siddharthvipul	then 6th should not be a problem
+2017-12-26 15:08:41	Jarwin	yeah, i'll be back on 5th
+2017-12-26 15:08:45	akki_akshat	11 it won't be possible
+2017-12-26 15:08:56	akki_akshat	11th*
+2017-12-26 15:09:06	alice_pigasus	yep
+2017-12-26 15:09:09	akki_akshat	exams are starting from 13th
+2017-12-26 15:09:11	@siddharthvipul	I am saying 6th not 11
+2017-12-26 15:09:23	Jarwin	+1 on 6th
+2017-12-26 15:09:34	alice_pigasus	ICTS talk on 11th, Christ talk on 7th
+2017-12-26 15:09:49	akki_akshat	+1 for 6th
+2017-12-26 15:09:56	alice_pigasus	+1
+2017-12-26 15:10:03	Jarwin	+1 for 6th
+2017-12-26 15:10:13	@siddharthvipul	So everyone agrees
+2017-12-26 15:10:16	Jarwin	I'll ask on the telegram group as well
+2017-12-26 15:11:30	Jarwin	What about attendance? It'll be provided right?
+2017-12-26 15:12:16	akki_akshat	Yaa
+2017-12-26 15:12:49	@siddharthvipul	attendance shouldn't be a problem
+2017-12-26 15:12:55	@siddharthvipul	we can keep it 12-2
+2017-12-26 15:13:09	@siddharthvipul	1 hour attendance 1 hour out of interest
+2017-12-26 15:13:18	Jarwin	Okay, I asked at 1511 hrs at the telegram group. If there's no response by 1516 hrs, then we'll move forward with 6th January as the next metup
+2017-12-26 15:13:27	Jarwin	*date for
+2017-12-26 15:13:32	@siddharthvipul	Jarwin, +1
+2017-12-26 15:14:05	akki_akshat	Jarwin -1
+2017-12-26 15:14:14	akki_akshat	when will people eat
+2017-12-26 15:14:20	@siddharthvipul	at 2?
+2017-12-26 15:14:20	akki_akshat	3-5?
+2017-12-26 15:15:35	Jarwin	Let's do it 12-3. 15 min break for eating
+2017-12-26 15:15:42	@siddharthvipul	okay
+2017-12-26 15:15:52	Jarwin	Last 30 mins for questions and installations
+2017-12-26 15:15:53	@siddharthvipul	12-1:30, 1:50 - 3
+2017-12-26 15:15:59	@siddharthvipul	yeah
+2017-12-26 15:16:05	akki_akshat	+1
+2017-12-26 15:16:13	Jarwin	+1
+2017-12-26 15:16:29	Jarwin	@alice_pigasus , @prakash ?
+2017-12-26 15:16:46	alice_pigasus	2 hours right?
+2017-12-26 15:16:50	alice_pigasus	2-5?
+2017-12-26 15:16:52	Jarwin	3 hours
+2017-12-26 15:16:58	alice_pigasus	2-5?
+2017-12-26 15:17:03	Jarwin	1200 hrs - 1500 hrs
+2017-12-26 15:17:20	alice_pigasus	@jarwin, we'll get 2 free hrs + no stats
+2017-12-26 15:17:37	alice_pigasus	*3 free hours
+2017-12-26 15:17:45	Jarwin	as in?
+2017-12-26 15:18:09	@siddharthvipul	alice_pigasus, lucky
+2017-12-26 15:18:19	alice_pigasus	1100- 1300 hrs is activity hr + lunch break - 3 hours
+2017-12-26 15:18:44	Jarwin	alice_pigasus, 6th is saturday
+2017-12-26 15:19:00	Jarwin	you have to look at the calendar for Jan 2018 xD
+2017-12-26 15:19:08	alice_pigasus	oh my bad
+2017-12-26 15:19:17	akki_akshat	😂
+2017-12-26 15:19:45	Jarwin	6th January, 2018 - 1200hrs - 1500 hrs | Two sessions
+2017-12-26 15:19:53	Jarwin	20 min lunch break
+2017-12-26 15:19:55	prakash	=1
+2017-12-26 15:19:57	alice_pigasus	+1
+2017-12-26 15:19:59	prakash	+1
+2017-12-26 15:20:03	akki_akshat	+1
+2017-12-26 15:20:05	@siddharthvipul	sgtm
+2017-12-26 15:20:27	Jarwin	cool then
+2017-12-26 15:20:34	Jarwin	let's move on to the agenda
+2017-12-26 15:20:43	--	siddharthvipul has changed topic for #culug from "DevSprint planning" to "open stage"
+2017-12-26 15:20:51	@siddharthvipul	anything else?
+2017-12-26 15:21:24	akki_akshat	Date for DevSprint ?
+2017-12-26 15:21:33	@siddharthvipul	btw, how many mentors do you think will be enough to help students send their first pr
+2017-12-26 15:21:43	@siddharthvipul	27?
+2017-12-26 15:21:47	Jarwin	umm, what all organizations are we looking at?
+2017-12-26 15:21:49	@siddharthvipul	january 27
+2017-12-26 15:21:59	@siddharthvipul	Mozilla?
+2017-12-26 15:22:03	Jarwin	And?
+2017-12-26 15:22:08	@siddharthvipul	or Linux
+2017-12-26 15:22:09	Jarwin	RedHat / Fedora?
+2017-12-26 15:22:15	Jarwin	anything FOSS
+2017-12-26 15:22:20	@siddharthvipul	We can get someone
+2017-12-26 15:22:39	@siddharthvipul	Fedora / Mozilla / Linux Foundation
+2017-12-26 15:23:02	@siddharthvipul	depends on mentors
+2017-12-26 15:23:10	@siddharthvipul	depends on mentors' availability
+2017-12-26 15:23:20	Jarwin	I'll ask bangpypers organizers and pycon people. Anyway they wanted to see if it's possible to hold the pycon devsprint in christ, it'll be a non-zero sum game for them
+2017-12-26 15:23:26	Jarwin	*both of us
+2017-12-26 15:23:49	akki_akshat	+1
+2017-12-26 15:23:51	@siddharthvipul	Pycon people are doing it somewhere else
+2017-12-26 15:24:05	Jarwin	new redhat office?
+2017-12-26 15:24:14	@siddharthvipul	I was talking to Sayan.. anyway let's not focus much on pycon for now
+2017-12-26 15:24:19	Jarwin	or IBM
+2017-12-26 15:24:26	@siddharthvipul	no not at RedHat office
+2017-12-26 15:24:36	@siddharthvipul	I don't attend their meeting
+2017-12-26 15:24:41	@siddharthvipul	s*
+2017-12-26 15:24:42	Jarwin	Last email said that christ is the possible venue for dev sprints
+2017-12-26 15:24:52	@siddharthvipul	Ah.. okay
+2017-12-26 15:24:57	Jarwin	anyway, i'll ask around
+2017-12-26 15:25:36	@siddharthvipul	if they want, they need to confirm soon
+2017-12-26 15:25:45	@siddharthvipul	I will ask sayan
+2017-12-26 15:25:51	Jarwin	So, let's say 5-6 mentors
+2017-12-26 15:26:23	Jarwin	and let's make it a paid event. Just to make sure only interested people join and not everyone comes and bothers mentors
+2017-12-26 15:26:24	@siddharthvipul	hmm.. I say 4 should be enough
+2017-12-26 15:26:28	Jarwin	100 rs ?
+2017-12-26 15:26:45	@siddharthvipul	I don't think that's a good idea
+2017-12-26 15:27:08	@siddharthvipul	Christ is very strict about taking money from students
+2017-12-26 15:27:19	Jarwin	Oh
+2017-12-26 15:27:46	Jarwin	but we gotta make sure not everyone who wants attendance for the last hour, comes there
+2017-12-26 15:27:48	@siddharthvipul	Well.. if you say it's a full day event on saturday, it will filter itself
+2017-12-26 15:28:03	Jarwin	1. It distracts the mentor
+2017-12-26 15:28:24	Jarwin	2. It distracts people who actually want to do it
+2017-12-26 15:28:37	Jarwin	3. It gives out a bad rep for college
+2017-12-26 15:29:09	alice_pigasus	you can say that while announcing in classes
+2017-12-26 15:29:17	Jarwin	say what?
+2017-12-26 15:29:26	@siddharthvipul	This is always the risk.. yeah prior notice is okay
+2017-12-26 15:29:35	akki_akshat	i dont think paid event is a good idea
+2017-12-26 15:29:48	@siddharthvipul	Say that only if you are interested, join!
+2017-12-26 15:30:02	Jarwin	Okay, what about insurance? 100 bucks, returned at the end?
+2017-12-26 15:30:02	alice_pigasus	don't show up just for attendance, we'll beat you up
+2017-12-26 15:30:10	Jarwin	@alice_pigasus xD
+2017-12-26 15:30:14	alice_pigasus	or what vipul said
+2017-12-26 15:30:28	@siddharthvipul	Haha.. no Jarwin, not a good idea
+2017-12-26 15:30:37	Jarwin	Alright then
+2017-12-26 15:30:40	@siddharthvipul	leave money out of it as of now
+2017-12-26 15:30:42	Jarwin	-1 for fee
+2017-12-26 15:31:10	Jarwin	btw, @siddharthvipul, is it possible to get guest wifi for the event?
+2017-12-26 15:31:13	alice_pigasus	how do we get more interested people to come?
+2017-12-26 15:31:26	@siddharthvipul	yes
+2017-12-26 15:31:30	@siddharthvipul	Jarwin, !
+2017-12-26 15:32:00	@siddharthvipul	alice_pigasus, showing the benefits of open source contribution is the only way
+2017-12-26 15:32:12	@siddharthvipul	maybe a success story
+2017-12-26 15:32:17	alice_pigasus	(I meant interested but shy)
+2017-12-26 15:32:23	Jarwin	more importantly, how do we stop non-intrested people (I'll not take the name cause logs are public, but I think you know who i am talking about #gsoc) from comming?
+2017-12-26 15:32:48	@siddharthvipul	We will publish few blogs on website (it will be up by then)
+2017-12-26 15:33:14	Jarwin	alright.
+2017-12-26 15:33:15	@siddharthvipul	Jarwin, we can't! we can kick them out if they misbehave but we should be open for all
+2017-12-26 15:33:27	Jarwin	yeah
+2017-12-26 15:33:41	@siddharthvipul	and those people won't attend coz they are not first time contributors ;)
+2017-12-26 15:33:45	@siddharthvipul	;P
+2017-12-26 15:33:47	Jarwin	We need some bouncers. :P
+2017-12-26 15:34:15	Jarwin	what will be the date?
+2017-12-26 15:34:29	@siddharthvipul	they are very experienced open source contributors, for them sending first pr is joke
+2017-12-26 15:34:38	@siddharthvipul	27th isn't it?
+2017-12-26 15:35:21	Jarwin	Putting it up on the telegram group
+2017-12-26 15:35:27	@siddharthvipul	sure
+2017-12-26 15:37:40	Jarwin	full day event
+2017-12-26 15:37:43	Jarwin	?
+2017-12-26 15:40:14	Jarwin	10 mins break. We'll continue the meeting at 1550. It'll give time for people in the whatsapp/telegram group to respond as well.
+2017-12-26 15:40:21	Jarwin	(logging still active)
+2017-12-26 15:44:53	<--	alice_pigasus (~alice@106.51.109.190) has quit (Quit: alice_pigasus)
+2017-12-26 15:50:14	--	siddharthvipul has changed topic for #culug from "open stage" to "CULUG - Labyrinth | Christ University Linux User Group | To join telegram channel: https://tinyurl.com/ChristU-lug | To read code of conduct: https://tinyurl.com/labyrinthcoc | Logs available (public)"
+2017-12-26 15:50:51	Jarwin	So, it will be a full day event, right?
+2017-12-26 15:51:06	@siddharthvipul	yeah
+2017-12-26 15:51:07	Jarwin	9-4
+2017-12-26 15:51:11	@siddharthvipul	10-4/5
+2017-12-26 15:51:26	Jarwin	attendance will only be given if they stay for the whole day
+2017-12-26 15:51:31	@siddharthvipul	mentors might find it difficult to come at 9, but we will start at 9
+2017-12-26 15:51:34	@siddharthvipul	yes
+2017-12-26 15:52:02	Jarwin	Tell them 9. They'll assemble by 10. ("-.-)
+2017-12-26 15:52:33	@siddharthvipul	9:15 max.. we will have to follow rules, can't let people wander for an hour
+2017-12-26 15:53:12	Jarwin	Okay. So what will we do for 45 mins
+2017-12-26 15:53:54	Jarwin	We'll have to engage them by the time mentors assemble
+2017-12-26 15:54:02	@siddharthvipul	quick github demo and setup, in that 45 minutes, people can make a group of 3
+2017-12-26 15:54:48	Jarwin	group of 3? That'll require more members
+2017-12-26 15:54:55	Jarwin	+ for git/github demp
+2017-12-26 15:55:00	Jarwin	*mentors
+2017-12-26 15:55:08	@siddharthvipul	umm.. them 4
+2017-12-26 15:55:12	@siddharthvipul	then*
+2017-12-26 15:55:37	Jarwin	okay cool. As of now 4. If the crowd is big enough, then we'll improvise
+2017-12-26 15:55:44	@siddharthvipul	we are enough for git/github
+2017-12-26 15:55:49	Jarwin	Yeah xD
+2017-12-26 15:56:22	Jarwin	We can extend 1 hour on th 6th meetup and give a git demo as well
+2017-12-26 15:56:48	@siddharthvipul	6th whole agenda is Git/GitHub :p
+2017-12-26 15:57:47	Jarwin	it's basic linux as well. We didn't go hands on in the first meetup
+2017-12-26 16:00:53	Jarwin	??
+2017-12-26 16:04:37	Jarwin	The meeting is still active people!
+2017-12-26 16:05:14	@siddharthvipul	oh yeah... it's basics of linux on 6th
+2017-12-26 16:05:52	@siddharthvipul	9-11:30 github, git demo on 27, then they hack
+2017-12-26 16:05:53	Jarwin	So, should we include git in it?
+2017-12-26 16:06:10	@siddharthvipul	no.. let's not pack them all together
+2017-12-26 16:06:35	Jarwin	it'll be too much on 27th!
+2017-12-26 16:06:37	@siddharthvipul	nature's call..brb
+2017-12-26 16:06:41	Jarwin	'kay
+2017-12-26 16:07:12	Jarwin	25th 2-4 GIT/GITHUB?
+2017-12-26 16:07:18	Jarwin	*git/github
+2017-12-26 16:09:01	@siddharthvipul	will have to figure it out
+2017-12-26 16:09:21	@siddharthvipul	keeping events so frequent is a problem
+2017-12-26 16:09:26	Jarwin	ah
+2017-12-26 16:09:42	Jarwin	we  can't put git on the same day as devsprint
+2017-12-26 16:09:43	@siddharthvipul	Join us on 4th, labyrinth meeting
+2017-12-26 16:09:47	@siddharthvipul	we will decide there
+2017-12-26 16:09:53	Jarwin	I'll come back on 5th :/
+2017-12-26 16:10:05	@siddharthvipul	no problem, I will let you know
+2017-12-26 16:10:10	Jarwin	cool
+2017-12-26 16:10:26	Jarwin	so what's left
+2017-12-26 16:10:29	Jarwin	*?
+2017-12-26 16:10:45	@siddharthvipul	It's just us.. so we can continue anytime.
+2017-12-26 16:10:53	@siddharthvipul	As of now, meeting over
+2017-12-26 16:10:57	Jarwin	okay.
+2017-12-26 16:11:11	Jarwin	Synopsis:
+2017-12-26 16:11:32	Jarwin	Next Meetup: 6th Jan 2018. 1200 - 1500 hrs
+2017-12-26 16:11:56	Jarwin	DevSprint: 27th Jan | 0900 - 1600 hrs
+2017-12-26 16:12:43	Jarwin	Need to decide how to push a git/github talk (see what i did there?) before 27th Jan
+2017-12-26 16:13:26	Jarwin	* Meeting logs will be emailed to the attendees *
+2017-12-26 16:13:33	Jarwin	-- Meeting Over --
