@@ -1,0 +1,16 @@
+<!doctype HTML>
+
+<head>
+<title> Christ University Linux Users Group - Archive</title>
+</head>
+
+<body>
+	<h1>Christ University Linux Users Group - Archive</h1>
+
+
+	<ul>
+		{% for item in contents %}
+		        <li><a href="static/{{ item }}"> {{item}} </a></li>
+	    	{% endfor %}
+	</ul>
+</body>
