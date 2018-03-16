@@ -1,0 +1,171 @@
+2018-03-07 15:54:37	--	Channel #culug: 3 nicks (0 ops, 0 voices, 3 normals)
+2018-03-07 15:54:37	--	PvNotice(ChanServ): Welcome to Christ (deemed to be) University Linux user group. || Genral Rules for any group apply. You can read it out here: https://pastebin.com/mUS5mCyG || tl;dr be considerate, be patient, be helpful || Join the telegram channel at https://tinyurl.com/ChristU-lug || Logs from meetings might be made public
+2018-03-07 15:54:37	--	Mode #culug [+o jarwin] by ChanServ
+2018-03-07 15:54:38	--	Channel created on Sat, 23 Dec 2017 20:36:29
+2018-03-07 17:07:01	--	irc: disconnected from server
+2018-03-07 17:07:25	-->	jarwin (~jarwin@27.251.83.10) has joined #culug
+2018-03-07 17:07:25	--	Channel #culug: 3 nicks (0 ops, 0 voices, 3 normals)
+2018-03-07 17:07:25	--	PvNotice(ChanServ): Welcome to Christ (deemed to be) University Linux user group. || Genral Rules for any group apply. You can read it out here: https://pastebin.com/mUS5mCyG || tl;dr be considerate, be patient, be helpful || Join the telegram channel at https://tinyurl.com/ChristU-lug || Logs from meetings might be made public
+2018-03-07 17:07:25	--	Mode #culug [+o jarwin] by ChanServ
+2018-03-07 17:07:27	--	Channel created on Sat, 23 Dec 2017 20:36:29
+2018-03-16 23:36:11	-->	jarwin (~jarwin@111.93.136.226) has joined #culug
+2018-03-16 23:36:11	--	Channel #culug: 3 nicks (1 op, 0 voices, 2 normals)
+2018-03-16 23:36:11	--	You are now known as Jarwin
+2018-03-16 23:36:11	--	PvNotice(ChanServ): Welcome to Christ (deemed to be) University Linux user group. || Genral Rules for any group apply. You can read it out here: https://pastebin.com/mUS5mCyG || tl;dr be considerate, be patient, be helpful || Join the telegram channel at https://tinyurl.com/ChristU-lug || Logs from meetings might be made public
+2018-03-16 23:36:11	--	Mode #culug [+o Jarwin] by ChanServ
+2018-03-16 23:36:11	--	Channel created on Sat, 23 Dec 2017 20:36:29
+2018-03-16 23:36:20	@Jarwin	siddharthvipul: hey
+2018-03-16 23:36:24	@Jarwin	siddharthvipul: ping
+2018-03-16 23:36:57	@siddharthvipul	oui
+2018-03-16 23:37:11	@Jarwin	starting the logs for meeting
+2018-03-16 23:37:17	@siddharthvipul	sure
+2018-03-16 23:37:25	@siddharthvipul	do we need to? XD
+2018-03-16 23:37:41	@siddharthvipul	I am sure it's pretty much dead once I am out XD
+2018-03-16 23:37:48	@siddharthvipul	although I won't leave CULUG
+2018-03-16 23:38:00	@Jarwin	lol
+2018-03-16 23:38:06	 *	Jarwin is here
+2018-03-16 23:38:14	 *	siddharthvipul is here
+2018-03-16 23:38:19	@Jarwin	anyway, what's the agenda for tomorro?
+2018-03-16 23:38:22	@Jarwin	*.tomorrow?
+2018-03-16 23:38:35	@Jarwin	rough draft?
+2018-03-16 23:38:46	--	siddharthvipul has changed topic for #culug to "agenda-17|march'18"
+2018-03-16 23:39:11	@siddharthvipul	IMO, let's start with 'Things we have done using python'
+2018-03-16 23:39:25	@siddharthvipul	like how we have automated our boring daily mundane stuff
+2018-03-16 23:39:32	@Jarwin	Okay fair enough
+2018-03-16 23:39:40	@Jarwin	i'll show the simulation
+2018-03-16 23:39:46	@Jarwin	and we'll call rohan
+2018-03-16 23:39:50	@Jarwin	if he's there
+2018-03-16 23:39:56	@Jarwin	he'll have a thing or two to show
+2018-03-16 23:40:01	@Jarwin	15 mins for this stuf
+2018-03-16 23:40:03	@Jarwin	*stuff
+2018-03-16 23:40:38	@siddharthvipul	We can ask rohan to talk for 5 minutes on how he doesn't use Student's login to check his attendance or he uses his script to login to connect to internet
+2018-03-16 23:41:26	@Jarwin	\me wants to notify that not much crowd will come from CMS as they are having/giving farewell tomorrow from 1330 to 1630
+2018-03-16 23:41:39	@Jarwin	yeah cool
+2018-03-16 23:41:56	@Jarwin	then we'll introduce Jupyter notebook?
+2018-03-16 23:42:28	@siddharthvipul	we can skip the code part and just tell them what we have done.. let's not confuse them with big stuff
+2018-03-16 23:42:53	@Jarwin	yeah. I konw.
+2018-03-16 23:42:56	@Jarwin	*know
+2018-03-16 23:43:02	@Jarwin	It's more of a motivation thing 
+2018-03-16 23:43:05	 *	siddharthvipul is concerned why he doesn't give a fuck about CMS/CME/BCA/anyThingeElse
+2018-03-16 23:43:33	@siddharthvipul	let's do it in order to teach and motivate others
+2018-03-16 23:43:36	@Jarwin	Btw, has anyone been notified about the session?
+2018-03-16 23:43:42	@siddharthvipul	I think so
+2018-03-16 23:43:46	@Jarwin	I eamiled on the math group
+2018-03-16 23:43:52	@siddharthvipul	good
+2018-03-16 23:44:03	@siddharthvipul	hope to see good amount of number
+2018-03-16 23:44:16	@siddharthvipul	let me tweet and see if anyone is interested
+2018-03-16 23:44:30	@Jarwin	Are you sure? cause no one in BSC knows about it
+2018-03-16 23:44:34	 *	siddharthvipul is thinking 'as if christites use twitter'
+2018-03-16 23:44:44	 *	Jarwin uses twitter
+2018-03-16 23:44:48	@siddharthvipul	I will kick some asses if they don't
+2018-03-16 23:44:58	@siddharthvipul	Jarwin can go fuck himself
+2018-03-16 23:45:09	@siddharthvipul	hey
+2018-03-16 23:45:11	@siddharthvipul	agenda
+2018-03-16 23:45:19	 *	Jarwin wants to remind vipul that the logs will be public xD
+2018-03-16 23:45:25	--	siddharthvipul has changed topic for #culug from "agenda-17|march'18" to "topics to be discussed tomorrow"
+2018-03-16 23:45:32	@Jarwin	1. Motivation +15 mins
+2018-03-16 23:45:38	 *	siddharthvipul is out of college and.. doesn't care Xd
+2018-03-16 23:45:40	@siddharthvipul	XD*
+2018-03-16 23:46:06	@Jarwin	2. Jupyter notebook + 20 mins (difference between jupyter cells and normal scripts)
+2018-03-16 23:46:08	@siddharthvipul	2. Intro to jupyter notebook for 10 minutes
+2018-03-16 23:46:18	@Jarwin	20 dude
+2018-03-16 23:46:52	@siddharthvipul	iI say let's not get into much detail and show them the basic. Then on the way we can show them its feature when we need it
+2018-03-16 23:47:04	@siddharthvipul	s/iL/i'll
+2018-03-16 23:47:18	@Jarwin	Okay. 15 mins. 5mins will go in explaning the difference.
+2018-03-16 23:47:22	@siddharthvipul	sure
+2018-03-16 23:47:37	@siddharthvipul	also, let's not forget installation.. python!
+2018-03-16 23:47:50	@Jarwin	Now, i was thinking for the intermediate audiance we should pick up a library and talk about it
+2018-03-16 23:47:54	@siddharthvipul	and we didn't inform them that laptop is necessary
+2018-03-16 23:48:06	@Jarwin	I did
+2018-03-16 23:48:18	@siddharthvipul	I am not expecting intermediate audience
+2018-03-16 23:49:29	@siddharthvipul	1. Print function (mock Java here)
+2018-03-16 23:49:32	@siddharthvipul	2.datatypes
+2018-03-16 23:49:41	@siddharthvipul	3. loops
+2018-03-16 23:49:50	@siddharthvipul	s/3/4
+2018-03-16 23:49:55	@Jarwin	aye that will be too much into introduction to python 
+2018-03-16 23:49:57	@siddharthvipul	3. If condition
+2018-03-16 23:50:00	@Jarwin	it's a guide to python
+2018-03-16 23:50:14	@siddharthvipul	loop will be too much ??? o.O
+2018-03-16 23:50:24	@Jarwin	Too much basic
+2018-03-16 23:50:28	@siddharthvipul	ah
+2018-03-16 23:50:42	@siddharthvipul	nope, we need to cover these for first 20 minutes
+2018-03-16 23:50:48	@Jarwin	alright
+2018-03-16 23:50:48	@siddharthvipul	then move to function
+2018-03-16 23:50:52	@siddharthvipul	then classes
+2018-03-16 23:51:00	@Jarwin	aye nooo it's not a CS class
+2018-03-16 23:51:11	@siddharthvipul	ok fuck classes
+2018-03-16 23:51:18	@siddharthvipul	no OOPs
+2018-03-16 23:51:24	@Jarwin	Let's go on with importing and then take some cool library and work with it
+2018-03-16 23:51:31	@siddharthvipul	sure
+2018-03-16 23:51:39	@Jarwin	tell me some cool library
+2018-03-16 23:51:41	@Jarwin	datetime?
+2018-03-16 23:52:01	@siddharthvipul	you are right.. goal is not to teach python but to motivate them to use it
+2018-03-16 23:52:14	@siddharthvipul	numpy :}
+2018-03-16 23:52:19	@siddharthvipul	XD
+2018-03-16 23:52:54	@siddharthvipul	from sentiment import sentiment.score XD
+2018-03-16 23:53:07	@siddharthvipul	show them the NLP code XD
+2018-03-16 23:53:28	@Jarwin	numpy is too mathy. they'll not see the beauty of numpy unless they've wrapped their heads around lists.
+2018-03-16 23:53:36	@siddharthvipul	yeah
+2018-03-16 23:53:38	@Jarwin	i'll look into networkx library
+2018-03-16 23:53:39	@siddharthvipul	pandas?
+2018-03-16 23:53:41	@Jarwin	for graph theory
+2018-03-16 23:53:51	@Jarwin	yeah, pandas sounds good
+2018-03-16 23:54:18	@siddharthvipul	urllib2?
+2018-03-16 23:54:23	@Jarwin	any other library though?
+2018-03-16 23:54:51	@Jarwin	yeah, i suppose we can spend a couple of minutes on urllib2
+2018-03-16 23:55:21	@siddharthvipul	i am not a master of urllib2.. I will learn something.. yeah
+2018-03-16 23:55:27	@siddharthvipul	yaaayyyyy
+2018-03-16 23:56:19	@Jarwin	ae, even i don't know urllib more than you do. xD
+2018-03-16 23:56:49	@Jarwin	should i show them vpython?
+2018-03-16 23:56:59	@siddharthvipul	huh, you have been taking python class before Guido van Rossum was born
+2018-03-16 23:57:11	@siddharthvipul	before monty python was born
+2018-03-16 23:57:19	@siddharthvipul	you shoul know what to teach
+2018-03-16 23:57:28	@Jarwin	how about seaborn?
+2018-03-16 23:57:44	@siddharthvipul	then matplotlib.. easier
+2018-03-16 23:57:47	@Jarwin	i want to do bokeh as well, but maybe for next session...
+2018-03-16 23:57:54	@siddharthvipul	or seaborn sounds good
+2018-03-16 23:58:39	@Jarwin	yeah, seaborn
+2018-03-16 23:58:46	@Jarwin	and sympy 
+2018-03-16 23:58:55	@Jarwin	i think that will be enough
+2018-03-16 23:59:03	@siddharthvipul	think of me as a audience XD
+2018-03-16 23:59:57	@Jarwin	abe chup xD
+2018-03-17 00:00:04	@Jarwin	I think that's it
+2018-03-17 00:00:08	@Jarwin	can you compile it?
+2018-03-17 00:00:14	@siddharthvipul	haha we will see tomorrow
+2018-03-17 00:00:26	@Jarwin	I have a free class tomorrow. i'll buff up some ipython notebooks
+2018-03-17 00:00:35	@siddharthvipul	sure
+2018-03-17 00:00:41	@siddharthvipul	I can give you some as well
+2018-03-17 00:00:50	@siddharthvipul	I will write properly
+2018-03-17 00:00:52	@siddharthvipul	2-3
+2018-03-17 00:00:58	@siddharthvipul	seaborn I can prepare
+2018-03-17 00:01:11	@siddharthvipul	or pandas I will prepare
+2018-03-17 00:01:21	@siddharthvipul	but you are going to teach all of them
+2018-03-17 00:02:02	@Jarwin	you cover seaborn
+2018-03-17 00:02:09	@siddharthvipul	no
+2018-03-17 00:02:15	@siddharthvipul	I don't know seaborn
+2018-03-17 00:02:17	@siddharthvipul	XD
+2018-03-17 00:02:22	@Jarwin	Even i don't konw seaborn
+2018-03-17 00:02:25	@Jarwin	it's okay
+2018-03-17 00:02:28	@Jarwin	i'll do it now
+2018-03-17 00:02:33	@siddharthvipul	cool
+2018-03-17 00:03:51	@Jarwin	making notebook on jupyter notebook. xD
+2018-03-17 00:03:59	@siddharthvipul	yeah
+2018-03-17 00:04:00	@Jarwin	compile everything
+2018-03-17 00:04:10	@siddharthvipul	we will refer them while teaching XS
+2018-03-17 00:04:15	@Jarwin	yeah xD
+2018-03-17 00:04:17	@siddharthvipul	s/we/you
+2018-03-17 00:04:28	@siddharthvipul	I am just an audience
+2018-03-17 00:06:46	@Jarwin	Abe chup kar be lavde xD
+2018-03-17 00:07:01	@siddharthvipul	so now this is not going on heroku
+2018-03-17 00:07:03	@siddharthvipul	XD
+2018-03-17 00:12:53	 *	Jarwin Jarwin dosen't care about this either.
+2018-03-17 00:13:34	@siddharthvipul	so python tomorrow huh
+2018-03-17 00:13:42	@siddharthvipul	what's the plan
+2018-03-17 00:26:56	@Jarwin	Umm, we'll meet at one?
+2018-03-17 00:27:07	@siddharthvipul	sure
+2018-03-17 00:27:33	@siddharthvipul	are you free sometime in between 10-12?
+2018-03-17 00:44:35	@Jarwin	If i am i'll call oyu
+2018-03-17 00:44:41	@Jarwin	Imma go to sleep now. 
+2018-03-17 00:44:42	@Jarwin	Night
+2018-03-17 00:44:45	 *	Jarwin out
+2018-03-17 00:44:49	@siddharthvipul	bonne nuit
