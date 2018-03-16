@@ -1,0 +1,183 @@
+2018-01-04 17:01:39	@siddharthvipul	let's stay away from politics
+2018-01-04 17:02:06	@siddharthvipul	We will be called smart asses and then we won't have a voice to put among teachers that we have earned
+2018-01-04 17:07:52	@Jarwin	yeah I guess you're right. Maybe in 3rd year :P but I think it'll also push the teachers out of their comfort zone and will actually see it's easier said than done. Maybe if it's planned carefully we can pull it off. But we don't have the resources and students don't have the maturity to do it!
+2018-01-04 17:08:41	@Jarwin	For now we already have a lot comming up
+2018-01-04 17:08:42	-->	alice_ (~alice@106.51.106.2) has joined #culug
+2018-01-04 17:09:12	--	alice_ is now known as alice_pigasus
+2018-01-04 17:10:08	@Jarwin	We'll put this thing aside for the forseeable future
+2018-01-04 17:11:02	@siddharthvipul	haha.. good call
+2018-01-04 17:11:11	@siddharthvipul	Jarwin, What about the agenda for 6th
+2018-01-04 17:11:50	@Jarwin	alice_pigasus, it was about teachers vs students competion. 
+2018-01-04 17:11:59	@Jarwin	yeah let's do it
+2018-01-04 17:12:06	@Jarwin	hang on let me start logging
+2018-01-04 17:12:17	@Jarwin	or siddharthvipul you'll use a bot for logging?
+2018-01-04 17:12:32	@siddharthvipul	didn't get time to setup one yet
+2018-01-04 17:12:40	@siddharthvipul	have too much stuff going on
+2018-01-04 17:12:51	@siddharthvipul	haven't slept for 3 days :|
+2018-01-04 17:13:20	@siddharthvipul	Also, supybot was giving some problem when I tried.. will try again
+2018-01-04 17:13:26	@siddharthvipul	maybe after this week
+2018-01-04 17:13:41	@Jarwin	oh, letit be, i've done it the old fashioned way
+2018-01-04 17:13:46	@Jarwin	anyway attendence 
+2018-01-04 17:13:49	 *	Jarwin
+2018-01-04 17:14:02	 *	siddharthvipul and only /me is here
+2018-01-04 17:14:43	@siddharthvipul	This is not a meeting though, we need more members for that. This is more of a discussion :p
+2018-01-04 17:15:00	 *	alice_pigasus gives attendance anyway
+2018-01-04 17:15:05	@Jarwin	yeah, okay
+2018-01-04 17:15:07	@Jarwin	cool
+2018-01-04 17:15:09	@Jarwin	so for 6th
+2018-01-04 17:15:26	@Jarwin	we'll distribute a google form to get a heads up 
+2018-01-04 17:15:32	@Jarwin	for the crowd 
+2018-01-04 17:15:43	@Jarwin	I'm expecting 15-20 ?
+2018-01-04 17:15:56	@Jarwin	Too much/too less/just about right?
+2018-01-04 17:16:17	@siddharthvipul	too less
+2018-01-04 17:16:22	@siddharthvipul	30 i am expecting
+2018-01-04 17:16:30	@siddharthvipul	anyway, it doesn't matter
+2018-01-04 17:17:02	@Jarwin	yeah, i'll make a ppt
+2018-01-04 17:17:08	@Jarwin	not ppt ppt! ppt ppt
+2018-01-04 17:17:21	@siddharthvipul	I say basic commands like pwd, cd, ls etc then introduce effective tools like terminator, gparted, vim etc
+2018-01-04 17:17:28	@siddharthvipul	nothing much in detail
+2018-01-04 17:17:35	@Jarwin	installing software
+2018-01-04 17:17:37	@siddharthvipul	just give them a taste of it
+2018-01-04 17:17:39	@siddharthvipul	yeah
+2018-01-04 17:17:52	@siddharthvipul	etc had covered that.. also service commands :p
+2018-01-04 17:18:09	@siddharthvipul	I was thinking if we could do VMs and then ssh
+2018-01-04 17:18:14	@Jarwin	service commands
+2018-01-04 17:18:18	@Jarwin	yeah ssh
+2018-01-04 17:18:22	@siddharthvipul	vagrant will be too much I guess
+2018-01-04 17:18:34	@Jarwin	but it's a bit of a bi.ch to start ssh service in fedora
+2018-01-04 17:18:49	@siddharthvipul	no.. I have been using it everyday
+2018-01-04 17:18:50	@Jarwin	You have to enable the ssh deamon
+2018-01-04 17:18:50	@siddharthvipul	why?
+2018-01-04 17:18:57	@Jarwin	not the client thing
+2018-01-04 17:18:59	@siddharthvipul	yeah.. just once
+2018-01-04 17:19:01	@siddharthvipul	sshd
+2018-01-04 17:19:03	@siddharthvipul	done
+2018-01-04 17:19:04	@Jarwin	if you want to start the ssh server
+2018-01-04 17:19:28	@Jarwin	Any way we'll improvise
+2018-01-04 17:19:31	@siddharthvipul	nope.. just enable once.. It's not even required.. it is on  by default I guess
+2018-01-04 17:19:47	@Jarwin	btw, add about the meetup in the topic
+2018-01-04 17:19:53	@Jarwin	:P
+2018-01-04 17:20:25	--	siddharthvipul has changed topic for #culug from "CULUG - Labyrinth | Christ University Linux User Group | To join telegram channel: https://tinyurl.com/ChristU-lug | To read code of conduct: https://tinyurl.com/labyrinthcoc | Logs available (public)" to "Agenda for upcoming meet (6th-Jan)"
+2018-01-04 17:20:36	@siddharthvipul	I don't know why though
+2018-01-04 17:20:38	@siddharthvipul	:p
+2018-01-04 17:20:54	@Jarwin	I meant that add that there'll be a meetup on 6th  :P
+2018-01-04 17:21:03	@siddharthvipul	Shit :p
+2018-01-04 17:21:09	@Jarwin	not like anyone except for both of us would read. :P
+2018-01-04 17:21:17	@siddharthvipul	haha
+2018-01-04 17:21:37	@Jarwin	anyway, synopsis from today's meeting?
+2018-01-04 17:21:38	--	siddharthvipul has changed topic for #culug from "Agenda for upcoming meet (6th-Jan)" to "[#culug] Welcome to Christ (deemed to be) University Linux user group. || Genral Rules for any group apply. You can read it out here: https://pastebin.com/mUS5mCyG || tl;dr be considerate, be patient, be helpful || Join the telegram channel at https://tinyurl.com/ChristU-lug || Logs from meetings might be made public"
+2018-01-04 17:22:02	@Jarwin	and how's the poster comming?
+2018-01-04 17:22:21	@siddharthvipul	I asked him, he said in progress
+2018-01-04 17:22:30	@Jarwin	okay
+2018-01-04 17:22:40	@Jarwin	so what's the agenda as of now
+2018-01-04 17:23:16	@siddharthvipul	Can you make a draft that we can forward in different class groups about this meet
+2018-01-04 17:23:33	@siddharthvipul	like whom is it for, agenda, pre-requisites etc
+2018-01-04 17:23:44	@Jarwin	yeah yeah
+2018-01-04 17:23:46	@siddharthvipul	Also venue, time and details
+2018-01-04 17:23:47	@Jarwin	creating etherpad
+2018-01-04 17:23:55	@siddharthvipul	yo
+2018-01-04 17:24:21	@siddharthvipul	I have to make proposal for Genesis (blockchain event)
+2018-01-04 17:24:33	@Jarwin	btw, alice_pigasus, you just installed linux, is there anything specific you'd want to get covered in the event?
+2018-01-04 17:24:35	@siddharthvipul	4 lakhs sponser in total is target
+2018-01-04 17:24:49	alice_pigasus	I have a few questions
+2018-01-04 17:25:13	@siddharthvipul	alice_pigasus, I thought @Jarwin is @alice_pigasus
+2018-01-04 17:25:17	alice_pigasus	Could we have something for that? For problems and quesions
+2018-01-04 17:25:52	@siddharthvipul	alice_pigasus, explain that please :p
+2018-01-04 17:26:02	@Jarwin	https://etherpad.openstack.org/p/culug_meetup_2018_01_06_agenda
+2018-01-04 17:26:09	alice_pigasus	Explain what I;d like to have on the meet?
+2018-01-04 17:26:31	@Jarwin	no, siddharthvipul -.- 
+2018-01-04 17:26:43	@siddharthvipul	Jarwin, yeah yeah, now I know
+2018-01-04 17:26:47	@siddharthvipul	:p
+2018-01-04 17:26:55	@siddharthvipul	alice_pigasus, I am confused.. sorry :p
+2018-01-04 17:27:07	@Jarwin	Yeah, alice_pigasus, are you reffereing to Q&A session?
+2018-01-04 17:27:17	alice_pigasus	Lol, yes
+2018-01-04 17:27:17	 *	Jarwin https://etherpad.openstack.org/p/culug_meetup_2018_01_06_agenda
+2018-01-04 17:27:50	@Jarwin	yeah, that'll be there, apart from that is there something you think would be beneficial for first timers?
+2018-01-04 17:28:06	alice_pigasus	The Q&A is not going to be limited to what we discuss in the meet, right?
+2018-01-04 17:28:16	@siddharthvipul	nope.. ask whatever you want
+2018-01-04 17:28:51	@siddharthvipul	well... not whatever..at least keep it tech related :p
+2018-01-04 17:28:53	alice_pigasus	Well, maybe give us a task and make us do it only with terminal? Just for fun?
+2018-01-04 17:28:57	alice_pigasus	Maybe not
+2018-01-04 17:29:09	@Jarwin	so, an interactive session/
+2018-01-04 17:29:12	@Jarwin	*?
+2018-01-04 17:29:21	alice_pigasus	Yeah
+2018-01-04 17:29:44	@siddharthvipul	okay
+2018-01-04 17:29:48	@Jarwin	okay that can be done
+2018-01-04 17:29:48	@siddharthvipul	I have an iidea
+2018-01-04 17:30:06	 *	Jarwin https://etherpad.openstack.org/p/culug_meetup_2018_01_06_agenda
+2018-01-04 17:30:11	@Jarwin	keep adding stuff here
+2018-01-04 17:30:25	alice_pigasus	It could start with random simple tasks, but we could have levels
+2018-01-04 17:30:33	alice_pigasus	just a thought
+2018-01-04 17:31:29	@siddharthvipul	we can use script, we will ask them to do some steps and tasks (like change path, create 50 text files in one commands, delete half of them etc etc) and will ask them to send a pr to culug repo
+2018-01-04 17:31:42	alice_pigasus	what about commands like make and stuff? It would be nice if you talk a bit about installing from binaries and stuff
+2018-01-04 17:32:16	@siddharthvipul	those who score the highest, will be featured on somewhere (or will get a culug sticker as soon as it's ready
+2018-01-04 17:32:36	@siddharthvipul	make and stuff, save it for future events.. you don't want to scare them
+2018-01-04 17:33:07	@siddharthvipul	in this, try to show how things can be done faster and easily..
+2018-01-04 17:33:55	alice_pigasus	so will it be like a challenge thing?
+2018-01-04 17:35:38	@siddharthvipul	yeah.. with no embarrassment, marks won't be disclosed. Just winner's name and that he will get something
+2018-01-04 17:35:50	@siddharthvipul	alice_pigasus, sorry we are busy on etherpad :p
+2018-01-04 17:35:51	@Jarwin	if siddharthvipul gets some swag goodies then yeah, 
+2018-01-04 17:36:06	@siddharthvipul	What do you need?
+2018-01-04 17:36:24	@Jarwin	stickers mostly
+2018-01-04 17:36:32	@siddharthvipul	I am working from home nowadays..
+2018-01-04 17:36:49	alice_pigasus	 @siddharthvipul no problem I  have etherpad open
+2018-01-04 17:36:53	@siddharthvipul	What kind of sticker
+2018-01-04 17:37:05	@siddharthvipul	as in which sticker?
+2018-01-04 17:37:15	alice_pigasus	Some xkcd thing
+2018-01-04 17:37:35	alice_pigasus	@jarwin has the "I am a god" sticker, something about processing.
+2018-01-04 17:37:53	@Jarwin	https://xkcd.com/676/
+2018-01-04 17:37:55	alice_pigasus	I think hell be more n happy to give us his sticker
+2018-01-04 17:38:00	alice_pigasus	@jarwin?
+2018-01-04 17:38:05	alice_pigasus	*he'll
+2018-01-04 17:38:08	@siddharthvipul	I have fedora sticker but that's the aluminum one.. that you put near intel sticker
+2018-01-04 17:38:27	@Jarwin	can you get more fedora stickers form office?
+2018-01-04 17:38:47	@siddharthvipul	I had such funky stickers, I don't like.. I usually put just organisation stickers
+2018-01-04 17:39:02	@siddharthvipul	I can kill someone for vim
+2018-01-04 17:39:11	 *	Jarwin hides
+2018-01-04 17:39:15	@siddharthvipul	Jarwin, I am working from home
+2018-01-04 17:39:39	@Jarwin	it's like so close
+2018-01-04 17:39:40	@siddharthvipul	Jarwin, I sent you one right? s/IDEs/vim
+2018-01-04 17:39:55	@siddharthvipul	Jarwin, too much dude :p
+2018-01-04 17:39:58	@Jarwin	ywah, i guess :P
+2018-01-04 17:40:06	@siddharthvipul	i want that
+2018-01-04 17:40:30	alice_pigasus	@jarwin has a *lot* of stickers he doesn't share -.-
+2018-01-04 17:40:39	alice_pigasus	I'm sure we could go through his stash
+2018-01-04 17:40:49	@siddharthvipul	I forgot global s/IDEs/vim/g
+2018-01-04 17:41:30	@siddharthvipul	Jarwin, We should share.. I have around 300-350 different
+2018-01-04 17:41:39	alice_pigasus	atom is not on the editor wars :P ? Everyone hates atom?
+2018-01-04 17:41:50	@siddharthvipul	I don't hate atom
+2018-01-04 17:41:51	@Jarwin	YEAH FCUK ATOM
+2018-01-04 17:41:57	@siddharthvipul	I just like vim and atom
+2018-01-04 17:42:11	@siddharthvipul	I don't like sublime.. so fuck you Jarwin
+2018-01-04 17:42:12	@Jarwin	hey, i don't have with me rn. and mostly python stickers
+2018-01-04 17:42:21	@Jarwin	__|__
+2018-01-04 17:42:22	alice_pigasus	YEAAAH xD Jarwin there you go
+2018-01-04 17:42:47	@siddharthvipul	I have few python powered stickers.. do you have fedora loves python sticker?
+2018-01-04 17:42:55	 *	Jarwin reminds to keep adding stuff in the etherpad
+2018-01-04 17:43:09	alice_pigasus	yeah he does -.-
+2018-01-04 17:43:14	alice_pigasus	Can't stop showing off
+2018-01-04 17:43:43	@siddharthvipul	I had 3, gave two of them to audience in a talk.. then realised I just had 2 :p
+2018-01-04 17:44:00	@siddharthvipul	I don't go to pycons.. so limited stock of that
+2018-01-04 17:44:14	@siddharthvipul	but bhagwan ke daya se i have enough
+2018-01-04 17:44:48	@Jarwin	why no pycon? xD
+2018-01-04 17:45:01	@siddharthvipul	I have around 20 GitHub sticker, 5+ GitLab, gnome, linux, fedora, and all redhat products, and many more
+2018-01-04 17:45:09	@siddharthvipul	including docker, k8s etc
+2018-01-04 17:45:36	@siddharthvipul	no pycon coz too much.. this time I might attend as it's in blr
+2018-01-04 17:45:53	@Jarwin	yeah, do attend :P
+2018-01-04 17:46:13	@siddharthvipul	Do you know we even get tickets/flight tickets/ accommodation etc if we ask our manager
+2018-01-04 17:46:24	@siddharthvipul	but I don't like flights
+2018-01-04 17:46:41	@Jarwin	woah! nice
+2018-01-04 17:46:49	@siddharthvipul	rn I want '   :wq    ' sticker
+2018-01-04 17:46:50	@Jarwin	yeah sayan told about this though
+2018-01-04 17:47:03	@Jarwin	i want a ":q!" :P
+2018-01-04 17:47:12	@siddharthvipul	haha..
+2018-01-04 17:47:32	@Jarwin	anyway, comming back to were we left off
+2018-01-04 17:47:39	@siddharthvipul	damn
+2018-01-04 17:48:45	@siddharthvipul	hey, I have some work to finish.. so let's wrap up fast
+2018-01-04 17:48:59	@Jarwin	okay
+2018-01-04 17:49:11	@Jarwin	just fill up the ehterpad and we're done
+2018-01-04 17:49:28	@Jarwin	if you think there's something you'd want to add or remove
+2018-01-04 17:54:25	@Jarwin	ending the meeting, anyone has anything they want to add?
+2018-01-04 17:54:35	@Jarwin	cherish the etherpad link more than your life
+2018-01-04 17:55:03	@Jarwin	i'll end the logging at 1800 hrs
+2018-01-04 17:57:14	<--	alice_pigasus (~alice@106.51.106.2) has quit (Quit: alice_pigasus)
